@@ -1,0 +1,16 @@
+{
+ "leads": [
+ {
+ "id": "390319847",
+ "email": "teste@webhook.com",
+ "name": "Fulano Suporte RD",
+ "company": null,
+ "job_title": "Analista",
+ "bio": null,
+ "public_url": "http:\/\/rdstation.com.br\/leads\/public\/807029c7-267f-4225-8428-87ae2dab34c3",
+ "created_at": "2018-09-26T17:57:10.189-03:00",
+ "opportunity": "true",
+ "number_conversions": "1",
+ ...
+ }] 
+} 
